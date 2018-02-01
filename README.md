@@ -4,7 +4,7 @@ The Sermon Formulator
 
 This is a long term project which will probably just be a hobby. Here are the intended stages of building this:
 
---Stage 0: Make a list of things that will never happen--
+~~Stage 0: Make a list of things that will never happen
 
 Stage 1: Build the program, probably in Electron, that:
 
