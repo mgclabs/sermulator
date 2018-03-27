@@ -6,7 +6,7 @@ This is a long term project which will probably just be a hobby. Here are the in
 
 ~~Stage 0: Make a list of things that will never happen~~
 
-Stage 1: Build the program, probably in Electron, that:
+Stage 1: Build the program, probably in Kotlin, that:
 
 1. Lets you select a "main" Bible passage (as little as one verse)
 2. Asks you questions about the verse (e.g. Who is the author? Who was the original audience? What is the broader context? What is the main point?)
@@ -25,5 +25,4 @@ Longer term (if that's even possible)
 
 Caveats:
  Due to the nature of this, even though it will be open source, I would expect most people would want to use a digitally signed version.
- I fear the use of Electron may include vulnerabilities by shear amount of code but I don't know, I also don't have time to make a native crossplatform app soooo there
  This will probably take me a long time to have anything to show for it since I'm just learning anyway
